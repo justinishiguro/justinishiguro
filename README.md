@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <h3>About Me</h3>
+</div>
+
+My name is Justin Ishiguro and I am a third year Computer Engineering student at UBC.
 
 <!--
 **justinishiguro/justinishiguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
