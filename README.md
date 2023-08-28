@@ -1,5 +1,6 @@
 <div align="center">
   <h3>About Me</h3>
+  <hr />
 </div>
 
 My name is Justin Ishiguro and I am a third year Computer Engineering student at UBC.
