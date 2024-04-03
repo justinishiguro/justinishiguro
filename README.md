@@ -5,7 +5,7 @@
 
 My name is Justin Ishiguro, a third year Computer Engineering student at the University of British Columbia. 
 
-I am currently an Undergraduate Teaching Assistant at UBC and just finished my internship at Dappworks Technology Inc. In my free time, I enjoy playing hockey, travelling, watching football, and fitness. 
+I am currently an Undergraduate Teaching Assistant at UBC and just finished my internship at Dappworks Technology Inc. In my free time, I enjoy playing hockey, travelling, and fitness. 
 
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [JustinIshiguro.com](http://justinishiguro.com)
