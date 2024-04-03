@@ -3,7 +3,13 @@
   <hr />
 </div>
 
-My name is Justin Ishiguro and I am a third year Computer Engineering student at UBC. I am currently an Undergraduate Teaching Assistant at UBC and just finished my internship at Dappworks Technology Inc. In my free time, I enjoy playing hockey, travelling, watching football, and fitness. 
+My name is Justin Ishiguro, a third year Computer Engineering student at the University of British Columbia. 
+
+I am currently an Undergraduate Teaching Assistant at UBC and just finished my internship at Dappworks Technology Inc. In my free time, I enjoy playing hockey, travelling, watching football, and fitness. 
+
+* 🌍  I'm based in Vancouver, BC
+* 🖥️  See my portfolio at [JustinIshiguro.com](http://justinishiguro.com)
+* ✉️  You can contact me at [justin.ishiguro@gmail.com](mailto:justin.ishiguro@gmail.com)
 
 <!--
 **justinishiguro/justinishiguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
